@@ -6,6 +6,12 @@
 
 [回文数](https://github.com/cumt-robin/leetcode-js/blob/master/easy/palindrome.js)
 
+[两数之和](https://github.com/cumt-robin/leetcode-js/blob/master/easy/two-num-sum.js)
+
+# 中等难度
+
+[每日温度](https://github.com/cumt-robin/leetcode-js/blob/master/medium/daily-temperature.js)
+
 # License
 
 [MIT](https://github.com/cumt-robin/leetcode-js/blob/master/LICENSE) © cumt-robin
